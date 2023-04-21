@@ -1,16 +1,15 @@
-### Hi there 👋
+# Greetings 👋
 
-<!--
-**thvphuc246/thvphuc246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! My name is **Vinh-Phuc** (or **Phillip**), and I am a Software Developer. I have professional background in *Native Android* and *Web Application*. I'm currently in the pursuit of a career in *Full-stack Development*.
 
-Here are some ideas to get you started:
+## Experience 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 *Front-end*: React, Angular, EmberJS.
+- :desktop_computer: *Back-end*: MongoDb, REST API, GraphQL, SQL.
+- 📱 *Mobile*: Native Android, ReactNative.
+- :books: *Languages*: TypeScript, Java, Kotlin, Python, C#.
+
+## Contact 📞
+
+- :email: truonghoangvinhphuc(at)google.com
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/philtruong121/)
