@@ -11,5 +11,5 @@ Hello there! My name is **Vinh-Phuc** (or **Phillip**), and I am a Software Deve
 
 ## Contact 📞
 
-- :email: truonghoangvinhphuc(at)google.com
+- :email: truonghoangvinhphuc(at)gmail.com
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/philtruong121/)
